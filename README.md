@@ -1,14 +1,10 @@
 # jpantonow
 
 ![Jpantonow's github stats](https://github-readme-stats.vercel.app/api?username=jpantonow&show_icons=true&theme=gotham&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpantonow&theme=gotham&count_private=true)](https://github.com/jpantonow/github-readme-stats)
 
  
   <p>
- <a href="https://github.com/brunaazambuja/brunaazambuja"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brunaazambuja&show_icons=true&locale=en&line_height=27&count_private=true" alt="brunaazambuja" /></a>
-  </p>
-  
   ## :hammer_and_wrench: Languages and Tools
   <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
