@@ -10,7 +10,7 @@
   <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg?style=for-the-badge&logo=scala" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
       <img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
